@@ -1,0 +1,7 @@
+Install python and pip install nessasary packages (mido, tkinter, keyboard)
+Figure out Names of Buttons on Text Keyboard by using "TestButtonName.py" (Keys like Shift may differ depending on OS-language)
+Write Button Name at right place (behind "Button:" in Quotation Marks) into "Keybinds.json" to use Midi Piano as Computer Text Keyboard 
+Start any of the .py files (for Example "Main.py" or "Note.py" to start the programm) 
+ If you have multiply midi devices, the code should always choose the first one it finds
+ If you want to use something weird that mido puts on num 0-20 u need to add these yourself in Keybinds.json with "num": (...)
+Info: Wanted to add a lot more features but got lazy and put finishing this off for months, so code is very messy and largely unorganised, even i dont understand what is going on there

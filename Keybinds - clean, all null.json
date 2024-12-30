@@ -1,0 +1,442 @@
+{
+    "0": {
+        "name": "A1",
+        "num": 21,
+        "button": null
+    },
+    "1": {
+        "name": "A#1",
+        "num": 22,
+        "button": null
+    },
+    "2": {
+        "name": "B1",
+        "num": 23,
+        "button": null
+    },
+    "3": {
+        "name": "C2",
+        "num": 24,
+        "button": null
+    },
+    "4": {
+        "name": "C#2",
+        "num": 25,
+        "button": null
+    },
+    "5": {
+        "name": "D2",
+        "num": 26,
+        "button": null
+    },
+    "6": {
+        "name": "D#2",
+        "num": 27,
+        "button": null
+    },
+    "7": {
+        "name": "E2",
+        "num": 28,
+        "button": null
+    },
+    "8": {
+        "name": "F2",
+        "num": 29,
+        "button": null
+    },
+    "9": {
+        "name": "F#2",
+        "num": 30,
+        "button": null
+    },
+    "10": {
+        "name": "G2",
+        "num": 31,
+        "button": null
+    },
+    "11": {
+        "name": "G#2",
+        "num": 32,
+        "button": null
+    },
+    "12": {
+        "name": "A2",
+        "num": 33,
+        "button": null
+    },
+    "13": {
+        "name": "A#2",
+        "num": 34,
+        "button": null
+    },
+    "14": {
+        "name": "B2",
+        "num": 35,
+        "button": null
+    },
+    "15": {
+        "name": "C3",
+        "num": 36,
+        "button": null
+    },
+    "16": {
+        "name": "C#3",
+        "num": 37,
+        "button": null
+    },
+    "17": {
+        "name": "D3",
+        "num": 38,
+        "button": null
+    },
+    "18": {
+        "name": "D#3",
+        "num": 39,
+        "button": null
+    },
+    "19": {
+        "name": "E3",
+        "num": 40,
+        "button": null
+    },
+    "20": {
+        "name": "F3",
+        "num": 41,
+        "button": null
+    },
+    "21": {
+        "name": "F#3",
+        "num": 42,
+        "button": null
+    },
+    "22": {
+        "name": "G3",
+        "num": 43,
+        "button": null
+    },
+    "23": {
+        "name": "G#3",
+        "num": 44,
+        "button": null
+    },
+    "24": {
+        "name": "A3",
+        "num": 45,
+        "button": null
+    },
+    "25": {
+        "name": "A#3",
+        "num": 46,
+        "button": null
+    },
+    "26": {
+        "name": "B3",
+        "num": 47,
+        "button": null
+    },
+    "27": {
+        "name": "C4",
+        "num": 48,
+        "button": null
+    },
+    "28": {
+        "name": "C#4",
+        "num": 49,
+        "button": null
+    },
+    "29": {
+        "name": "D4",
+        "num": 50,
+        "button": null
+    },
+    "30": {
+        "name": "D#4",
+        "num": 51,
+        "button": null
+    },
+    "31": {
+        "name": "E4",
+        "num": 52,
+        "button": null
+    },
+    "32": {
+        "name": "F4",
+        "num": 53,
+        "button": null
+    },
+    "33": {
+        "name": "F#4",
+        "num": 54,
+        "button": null
+    },
+    "34": {
+        "name": "G4",
+        "num": 55,
+        "button": null
+    },
+    "35": {
+        "name": "G#4",
+        "num": 56,
+        "button": null
+    },
+    "36": {
+        "name": "A4",
+        "num": 57,
+        "button": null
+    },
+    "37": {
+        "name": "A#4",
+        "num": 58,
+        "button": null
+    },
+    "38": {
+        "name": "B4",
+        "num": 59,
+        "button": null
+    },
+    "39": {
+        "name": "C5",
+        "num": 60,
+        "button": null
+    },
+    "40": {
+        "name": "C#5",
+        "num": 61,
+        "button": null
+    },
+    "41": {
+        "name": "D5",
+        "num": 62,
+        "button": null
+    },
+    "42": {
+        "name": "D#5",
+        "num": 63,
+        "button": null
+    },
+    "43": {
+        "name": "E5",
+        "num": 64,
+        "button": null
+    },
+    "44": {
+        "name": "F5",
+        "num": 65,
+        "button": null
+    },
+    "45": {
+        "name": "F#5",
+        "num": 66,
+        "button": null
+    },
+    "46": {
+        "name": "G5",
+        "num": 67,
+        "button": null
+    },
+    "47": {
+        "name": "G#5",
+        "num": 68,
+        "button": null
+    },
+    "48": {
+        "name": "A5",
+        "num": 69,
+        "button": null
+    },
+    "49": {
+        "name": "A#5",
+        "num": 70,
+        "button": null
+    },
+    "50": {
+        "name": "B5",
+        "num": 71,
+        "button": null
+    },
+    "51": {
+        "name": "C6",
+        "num": 72,
+        "button": null
+    },
+    "52": {
+        "name": "C#6",
+        "num": 73,
+        "button": null
+    },
+    "53": {
+        "name": "D6",
+        "num": 74,
+        "button": null
+    },
+    "54": {
+        "name": "D#6",
+        "num": 75,
+        "button": null
+    },
+    "55": {
+        "name": "E6",
+        "num": 76,
+        "button": null
+    },
+    "56": {
+        "name": "F6",
+        "num": 77,
+        "button": null
+    },
+    "57": {
+        "name": "F#6",
+        "num": 78,
+        "button": null
+    },
+    "58": {
+        "name": "G6",
+        "num": 79,
+        "button": null
+    },
+    "59": {
+        "name": "G#6",
+        "num": 80,
+        "button": null
+    },
+    "60": {
+        "name": "A6",
+        "num": 81,
+        "button": null
+    },
+    "61": {
+        "name": "A#6",
+        "num": 82,
+        "button": null
+    },
+    "62": {
+        "name": "B6",
+        "num": 83,
+        "button": null
+    },
+    "63": {
+        "name": "C7",
+        "num": 84,
+        "button": null
+    },
+    "64": {
+        "name": "C#7",
+        "num": 85,
+        "button": null
+    },
+    "65": {
+        "name": "D7",
+        "num": 86,
+        "button": null
+    },
+    "66": {
+        "name": "D#7",
+        "num": 87,
+        "button": null
+    },
+    "67": {
+        "name": "E7",
+        "num": 88,
+        "button": null
+    },
+    "68": {
+        "name": "F7",
+        "num": 89,
+        "button": null
+    },
+    "69": {
+        "name": "F#7",
+        "num": 90,
+        "button": null
+    },
+    "70": {
+        "name": "G7",
+        "num": 91,
+        "button": null
+    },
+    "71": {
+        "name": "G#7",
+        "num": 92,
+        "button": null
+    },
+    "72": {
+        "name": "A7",
+        "num": 93,
+        "button": null
+    },
+    "73": {
+        "name": "A#7",
+        "num": 94,
+        "button": null
+    },
+    "74": {
+        "name": "B7",
+        "num": 95,
+        "button": null
+    },
+    "75": {
+        "name": "C8",
+        "num": 96,
+        "button": null
+    },
+    "76": {
+        "name": "C#8",
+        "num": 97,
+        "button": null
+    },
+    "77": {
+        "name": "D8",
+        "num": 98,
+        "button": null
+    },
+    "78": {
+        "name": "D#8",
+        "num": 99,
+        "button": null
+    },
+    "79": {
+        "name": "E8",
+        "num": 100,
+        "button": null
+    },
+    "80": {
+        "name": "F8",
+        "num": 101,
+        "button": null
+    },
+    "81": {
+        "name": "F#8",
+        "num": 102,
+        "button": null
+    },
+    "82": {
+        "name": "G8",
+        "num": 103,
+        "button": null
+    },
+    "83": {
+        "name": "G#8",
+        "num": 104,
+        "button": null
+    },
+    "84": {
+        "name": "A8",
+        "num": 105,
+        "button": null
+    },
+    "85": {
+        "name": "A#8",
+        "num": 106,
+        "button": null
+    },
+    "86": {
+        "name": "B8",
+        "num": 107,
+        "button": null
+    },
+    "87": {
+        "name": "C9",
+        "num": 108,
+        "button": null
+    }
+}
